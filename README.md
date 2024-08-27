@@ -3,4 +3,4 @@ Logic for Progamming course in IST
 
 Grades:
 
-Projet 1 - 20
+Project 1 - 20
