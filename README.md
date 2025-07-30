@@ -1,5 +1,4 @@
-# LP-22-23
-Logic for Progamming course at IST
+# Logic for Progamming course at IST
 
 Grades:
 
